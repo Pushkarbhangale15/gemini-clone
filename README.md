@@ -35,3 +35,8 @@ This project serves as a clone of the Google Gemini chatbot, offering a responsi
 -**Extended Features:** Potential to include functionalities like media integration or real-time language translation.
 
 ### Setup Instructions
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/Pushkarbhangale15/gemini-clone.git
